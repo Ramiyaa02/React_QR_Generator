@@ -1,18 +1,74 @@
-# React + Vite
+🚀 QR Code Generator (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fast QR Code Generator built using React + Vite.
+Users can enter any text or URL and instantly generate a QR Code.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔹 Generate QR Codes instantly
 
-## React Compiler
+🔹 Clean and colorful UI
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+🔹 Copy or download QR Code
 
-Note: This will impact Vite dev & build performances.
+🔹 Built with React + Vite for fast performance
 
-## Expanding the ESLint configuration
+🔹 Responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+
+React
+
+Vite
+
+JavaScript
+
+CSS
+
+📂 Project Structure
+qrcode-gen/
+│── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── index.css
+│   └── App.css
+│── public/
+│── package.json
+│── vite.config.js
+│── README.md
+
+🚀 Run Locally
+
+Clone the project
+
+git clone https://github.com/YourUsername/qrcode-gen.git
+
+
+Go to the project directory
+
+cd qrcode-gen
+
+
+Install dependencies
+
+npm install
+
+
+Start the server
+
+npm run dev
+
+📦 Build for Production
+npm run build
+
+📤 Deploy on GitHub Pages / Vercel / Netlify
+
+This app can be deployed easily.
+Ask me if you need deployment steps.
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to open an issue or submit a pull request.
+
+📄 License
